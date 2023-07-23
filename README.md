@@ -1,4 +1,4 @@
-## Hi, I'm a recent beginner in programming studies.
+## Hi, I'm a recent beginner in programming studies. 🖖
 ###### Se preferir, pode traduzir a página no ícone do Google Tradutor na barra de pesquisa do seu navegador ;)
 
 🔭 I love the idea of working coding.
