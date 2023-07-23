@@ -1,4 +1,5 @@
 ## Hi, I'm a recent beginner in programming studies.
+###### Se preferir, pode traduzir a página no ícone do Google Tradutor na barra de pesquisa do seu navegador ;)
 
 🔭 I love the idea of working coding.
 
@@ -9,7 +10,7 @@
 📫 You can find me at:
 
 <div> 
-  <a href="https://instagram.com/sernuness" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/sernuness/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "sernuness@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sernuness" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
