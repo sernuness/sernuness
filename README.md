@@ -1,4 +1,4 @@
-## Hi, I'm a recent beginner in programming studies. 🖖
+## Hi, I'm a starter in programming studies. 🖖
 ###### Se preferir, pode traduzir a página no ícone do Google Tradutor na barra de pesquisa do seu navegador ;)
 
 🔭 I love the idea of working coding.
@@ -11,9 +11,7 @@
 
 <div> 
   <p><a href="https://wa.me/5575983707584" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href = "sernuness@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sernuness" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><p>
-  
 </div>
           
 
